@@ -1,8 +1,6 @@
-# react boilerplate
+# react boilerplate with webpack 5 and babel 
 
 ```
-webpack5 setting for react or vanila javascript
-
 npm install     
 npm start
 ```
