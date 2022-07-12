@@ -1,6 +1,5 @@
-# simple-webpack-setting
+# react boilerplate
 
-react boilerplate
 ```
 webpack5 setting for react or vanila javascript
 
